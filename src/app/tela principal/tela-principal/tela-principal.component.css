@@ -1,0 +1,53 @@
+p{
+  margin-bottom: 5px;
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
+.mat-toolbar-row, .mat-toolbar-single-row {
+ padding: 0;
+ height: 50px;
+ padding: 0 8px;
+}
+.paddingHeart{
+ margin-left: 5px;
+}
+.example-form {
+  width: 20px;
+}
+
+.menu{
+  margin-right: 6px;
+}
+
+.pesquisa{
+  width: 100%;
+  font-family: roboto;
+  font-size: 17px;
+  height: 70%;
+  border-radius: 5px;
+  color: blueviolet;
+  padding-inline-start:10px;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.botaofixo{
+  position: fixed;
+  top: 85%;
+  left: 44%;
+
+}
+
+.titulo{
+  margin: 5px 10px 0 10px;
+  font-family: Roboto;
+  color: rgb(155, 151, 151);
+}
